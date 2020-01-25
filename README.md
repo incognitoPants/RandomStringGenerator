@@ -1,4 +1,4 @@
-#Random String Generator
+# Random String Generator
 ***
 This creates a random 12-character alphanumeric string and automatically
 copies it to the user's clipboard.
@@ -11,7 +11,7 @@ does not display well when ran this way.
 _Note: This was developed using Python 3.7 and 3.8. No guarantees it will work
 with other versions_
 
-##Instructions
+## Instructions
 The script has to be compiled via `pyinstaller` or similar tool. You can
 install it via `pip`.
 ```
